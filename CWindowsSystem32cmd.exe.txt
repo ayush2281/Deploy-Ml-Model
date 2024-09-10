@@ -1,0 +1,5 @@
+
+(MachineLearning) C:\Users\lenovo>pip install pickle_mixin
+Requirement already satisfied: pickle_mixin in c:\users\lenovo\.conda\envs\machinelearning\lib\site-packages (1.0.2)
+
+(MachineLearning) C:\Users\lenovo>C:\Users\lenovo\Downloads\deploy ML-Model
